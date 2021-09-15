@@ -10,4 +10,11 @@ so, I can remember things..
 
 ## Add, commit, Push
 
-1.  
+1.  Re-Testing Branch Repository
+2.  Establishing the connedtion
+
+### Comments
+
+It's so hard. I don't know what I did wrong...
+I guess I will have to try again to find out !!!
+
